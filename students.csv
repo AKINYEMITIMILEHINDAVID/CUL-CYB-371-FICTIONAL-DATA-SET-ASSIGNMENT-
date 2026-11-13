@@ -1,0 +1,21 @@
+Student_ID,Department,Level,Attendance_Percentage,Average_Exam_Score
+STU001,Microbiology,100,41,56.5
+STU002,Accounting,200,48,59.8
+STU003,Microbiology,500,45,53.2
+STU004,Computer Science,100,45,40.2
+STU005,Law,500,41,50.1
+STU006,Microbiology,500,66,50.7
+STU007,Law,300,91,85.9
+STU008,Accounting,400,61,50.2
+STU009,Accounting,300,46,36.2
+STU010,Computer Science,300,94,69.0
+STU011,Economics,100,86,69.1
+STU012,Computer Science,400,45,51.8
+STU013,Microbiology,500,96,88.2
+STU014,Law,200,85,54.9
+STU015,Microbiology,200,89,64.6
+STU016,Computer Science,200,95,61.0
+STU017,Economics,400,80,79.2
+STU018,Accounting,300,62,48.3
+STU019,Economics,100,78,71.2
+STU020,Law,200,50,51.2
